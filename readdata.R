@@ -1,0 +1,20 @@
+#Required package
+library(shiny)
+library(shinydashboard)
+library(ggplot2)
+library(rgdal)
+library(sp)
+library(htmltools)
+library(leaflet)
+library(leaflet.minicharts)
+library(leaflet.extras)
+library(grid)
+library(gridExtra)
+library(readr)
+library(dplyr)
+library(reshape)
+library(plotly)
+
+#read two datasets from csv
+crime <- read.csv("crime.csv")
+weather <- read.csv("weather.csv")
