@@ -22,23 +22,16 @@ This project has 3 parts
 
 Home page
 
-![image-20200615192854218](image/crime.PNG)
+![image-20200615192854218](image/homepage.PNG)
 
 NYC Crime Map
 
-![image-20200615193004495](img/README/image-20200615193004495.png)
+![image-20200615193004495](image/crime.PNG)
 
 Weather Statistics
 
-![image-20200615193052842](img/README/image-20200615193052842.png)
-
-填写相关信息
-
-![image-20200615193202810](img/README/image-20200615193202810.png)
-
-区域必须达拉斯，只有那里有免费的。
-
-![image-20200615193340241](img/README/image-20200615193340241.png)
+![image-20200615193052842](image/weather.PNG)
 
 Explore more by yourself! 
-ENJOY!
+
+ENJOY!!!
