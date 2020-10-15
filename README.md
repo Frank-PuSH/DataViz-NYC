@@ -22,7 +22,7 @@ This project has 3 parts
 
 Home page
 
-![image-20200615192854218](img/README/image-20200615192854218.png)
+![image-20200615192854218](image/crime.PNG)
 
 NYC Crime Map
 
