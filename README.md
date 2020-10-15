@@ -24,11 +24,11 @@ Home page
 
 ![image-20200615192854218](img/README/image-20200615192854218.png)
 
-可以找到Cloud Foundray
+NYC Crime Map
 
 ![image-20200615193004495](img/README/image-20200615193004495.png)
 
-创建公共应用程序
+Weather Statistics
 
 ![image-20200615193052842](img/README/image-20200615193052842.png)
 
@@ -40,4 +40,5 @@ Home page
 
 ![image-20200615193340241](img/README/image-20200615193340241.png)
 
-填写应用名称
+Explore more by yourself! 
+ENJOY!
