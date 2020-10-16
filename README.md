@@ -30,15 +30,15 @@ This project required 3 parts:
 
 Home page
 
-![image-20200615192854218](homepage.PNG)
+![image-20200615192854218](image/homepage.PNG)
 
 NYC Crime Map
 
-![image-20200615193004495](crime.PNG)
+![image-20200615193004495](image/crime.PNG)
 
 Weather Statistics
 
-![image-20200615193052842](weather.PNG)
+![image-20200615193052842](image/weather.PNG)
 
 Explore more by yourself! 
 
