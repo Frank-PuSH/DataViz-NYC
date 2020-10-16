@@ -54,11 +54,17 @@ Weather Statistics
 # Data Reference
 
 a.	Historical hourly weather data – hourly weather data for 30 US & Canadian cities + 6 Israeli cities.
-Tabular data: It has 7 datasets and only one of them can be used for my project, which are temperature.csv. This files recorded all temperatures and datetime of every day’s hourly weather from 2012 - 2017. 
+
+Tabular data: It has 7 datasets and only one of them can be used for my project, which are temperature.csv. This files recorded all temperatures and datetime
+of every day’s hourly weather from 2012 - 2017. 
+
 URL: https://www.kaggle.com/selfishgene/historical-hourly-weather-data#temperature.csv
 
 b.	NYPD complaint Data Historic – all valid felony, misdemeanour, and violation crimes reported to the New York City Police Department. 
-Tabular data: 6.85 million rows and 35 columns. Each row is a complaint which includes the date, time, location, plaint text which are detailed information of the occurrence of the reported event and personal information of reporters. 
+
+Tabular data: 6.85 million rows and 35 columns. Each row is a complaint which includes the date, time, location, plaint text which are detailed information
+of the occurrence of the reported event and personal information of reporters. 
+
 URL: https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
 Explore more by yourself! 
