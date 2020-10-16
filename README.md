@@ -24,7 +24,7 @@ This project required 3 parts:
 
 4. Run the readdata.R first to read these two datasets
 
-5. Run the vizShiny.R to run the Shiny app
+5. Run the vizShiny.R to start the Shiny app
 
 # Preview
 
